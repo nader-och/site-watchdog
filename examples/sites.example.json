@@ -1,0 +1,20 @@
+[
+  {
+    "id": "pizza-roma",
+    "name": "Pizza Roma",
+    "url": "http://127.0.0.1:8000/pizza-roma.html",
+    "expect": ".menu-item"
+  },
+  {
+    "id": "cafe-atlas",
+    "name": "Café Atlas",
+    "url": "http://127.0.0.1:8000/cafe-atlas.html",
+    "expect": ".menu-item"
+  },
+  {
+    "id": "shop-nour",
+    "name": "Shop Nour",
+    "url": "http://127.0.0.1:8001/shop-nour.html",
+    "expect": ".product"
+  }
+]
